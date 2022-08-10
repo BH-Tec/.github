@@ -17,7 +17,7 @@
 </p>
 
 ```yaml
-name: Bruno H
+name: Bruno Henrique
 located_in: Bahia, Brazil
 from: Bahia, Brazil
 job: Developer and QA
