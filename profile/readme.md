@@ -57,3 +57,7 @@ education: ["University Estácio de Sá"]
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://activity-graph.herokuapp.com/graph?username=brunodorea&theme=github-light&hide_border=true"alt="activity graph"/></a>
 </p>
+
+<p align="center">
+  <img alig src="https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif"/>
+</p>
