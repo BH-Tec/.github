@@ -1,4 +1,6 @@
-![activity graph](https://activity-graph.herokuapp.com/graph?username=brunodorea&theme=github-light&hide_border=true)
+<p align="center">
+<a href="https://ashutosh00710.github.io/github-readme-activity-graph/"><img src="https://streak-stats.demolab.com?user=brunodorea&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Readme Streak Stats"/></a>
+</p>
 
 <p align="center">
 <br/>
@@ -14,7 +16,6 @@
 </br>
 <a href="https://wakatime.com/@68660678-6b86-4b78-98df-f5f41a37e1bc"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc.svg" alt="Total time coded since Jul 12 2022" /></a>
 </p>
-
 
 <p align="center">
 <a href="https://github.com/orgs/BH-Tec/repositories?language=css"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
@@ -34,6 +35,7 @@ from: Bahia, Brazil
 job: Developer and QA
 education: ["University Estácio de Sá"]
 ```
+
 <p align="center">
 <a href="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
 <a href="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>
@@ -50,4 +52,8 @@ education: ["University Estácio de Sá"]
 <a href="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
 </br>
 <a href=""><img src="" alt=""/></a>
+</p>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://activity-graph.herokuapp.com/graph?username=brunodorea&theme=github-light&hide_border=true"alt="activity graph"/></a>
 </p>
