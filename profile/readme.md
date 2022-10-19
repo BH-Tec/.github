@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://ashutosh00710.github.io/github-readme-activity-graph/"><img src="https://streak-stats.demolab.com?user=brunodorea&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Readme Streak Stats"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=brunodorea&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Readme Streak Stats"/></a>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ education: ["University Estácio de Sá"]
 </p>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://activity-graph.herokuapp.com/graph?username=brunodorea&theme=github-light&hide_border=true"alt="activity graph"/></a>
+<a ><img href="https://ashutosh00710.github.io/github-readme-activity-graph/" src="https://activity-graph.herokuapp.com/graph?username=brunodorea&theme=github-light&hide_border=true"alt="activity graph"/></a>
 </p>
 
 <p align="center">
