@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=brunodorea&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Readme Streak Stats"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=brunodorea&hide_border=true&border_radius=5" alt="GitHub Readme Streak Stats"/></a>
 </p>
 
 <p align="center">
