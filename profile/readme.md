@@ -58,7 +58,7 @@ education: ["University Estácio de Sá"]
 </p>
 
 <p align="center">
-<a ><img href="https://ashutosh00710.github.io/github-readme-activity-graph/" src="https://activity-graph.herokuapp.com/graph?username=brunodorea&theme=github-light&hide_border=true"alt="activity graph"/></a>
+<a ><img href="https://ashutosh00710.github.io/github-readme-activity-graph/" src="https://github-readme-activity-graph.cyclic.app/graph?username=brunodorea&theme=github-light&hide_border=true"alt="activity graph"/></a>
 </p>
 
 <p align="center">
