@@ -15,7 +15,7 @@
 </a>
 </br>
 <a href="https://wakatime.com/@68660678-6b86-4b78-98df-f5f41a37e1bc"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc.svg" alt="Total time coded since Jul 12 2022" /></a>
-<a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=brunodorea" alt="brunodorea"/></a>
+<a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=bh-tec" alt="BH Tec"/></a>
 </p>
 
 <p align="center">
