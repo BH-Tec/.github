@@ -2,16 +2,18 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=brunodorea&hide_border=true&border_radius=5" alt="GitHub Readme Streak Stats"/></a>
 </p>
 
-<p>
-  <a target="_blank" href="mailto:brunodorea@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a target="_blank" href="https://www.linkedin.com/in/brunohfdorea/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-<p>
-  <a href="https://wakatime.com/@68660678-6b86-4b78-98df-f5f41a37e1bc"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc.svg" alt="Total time coded since Jul 12 2022" /></a>
-<a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=bh-tec" alt="BH Tec"/></a>
-</p>
+<img style="width: 360px" align="right" src="https://raw.githubusercontent.com/BH-Tec/.github/main/profile/assets/octocat-1675269865995.png" />
 
-<img style="width: 360px" align="right" src="./assets/octocat-1675269865995.png" />
+<div align="left">
+  <p>
+    <a target="_blank" href="mailto:brunodorea@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/brunohfdorea/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
+  <p>
+    <a href="https://wakatime.com/@68660678-6b86-4b78-98df-f5f41a37e1bc"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc.svg" alt="Total time coded since Jul 12 2022" /></a>
+  <a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=bh-tec" alt="BH Tec"/></a>
+  </p>
+</div>
 
 ```yaml
 name: Bruno H
