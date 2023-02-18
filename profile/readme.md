@@ -1,6 +1,8 @@
+<!--
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=brunodorea&hide_border=true&border_radius=5" alt="GitHub Readme Streak Stats"/></a>
 </p>
+-->
 
 <img style="width: 360px" align="right" src="https://raw.githubusercontent.com/BH-Tec/.github/main/profile/assets/octocat-1675269865995.png" />
 
@@ -37,6 +39,7 @@ company: ["Spread"]
   <a href="https://github.com/orgs/BH-Tec/repositories?q=powerbi"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Markdown"/></a>
 </div>
 
+<!--
 <div align="left">
   <h3>Courses</h3>
   <a href="https://github.com/orgs/BH-Tec/repositories?q=alura"><img src="https://img.shields.io/badge/alura-navy.svg?style=for-the-badge&logo=alura" alt="Alura"/></a>
@@ -55,3 +58,5 @@ company: ["Spread"]
 <p align="center">
   <img alig src="https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif"/>
 </p>
+-->
+ 
